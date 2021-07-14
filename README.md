@@ -2,6 +2,7 @@
 
 # Screenshot
 <img src="https://github.com/jadenhensley/kivy-emotespam-firstapp/blob/main/screenshot.PNG">
+
 # Usage
 On Windows:
 
